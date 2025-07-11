@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <Container>
         <Row>
           <Col md={4} className="mb-4">
-            <h5 className="mb-3">🍕 FoodieHub</h5>
+            <h5 className="mb-3">🍕 Mo Food</h5>
             <p className="text-muted">
               Delivering delicious food from your favorite local restaurants. 
               Fresh ingredients, expert chefs, and lightning-fast delivery.
@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
         <Row>
           <Col className="text-center">
             <p className="text-muted mb-0">
-              © 2024 FoodieHub. All rights reserved.
+              © 2025 Mo Food. All rights reserved.
             </p>
           </Col>
         </Row>
